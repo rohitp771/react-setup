@@ -2,12 +2,12 @@ import { ThemeProvider } from '@mui/material/styles';
 import { CssBaseline } from '@mui/material';
 import theme from './theme/theme';
 import './i18n';
-import AboutYourself from './pages/Aboutyourself';
+import Section from './components/Section';
 
 const App = () => (
   <ThemeProvider theme={theme}>
     <CssBaseline />
-    <AboutYourself />
+    <Section/>
   </ThemeProvider>
 );
 

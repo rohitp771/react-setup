@@ -1,0 +1,5 @@
+{
+    "currentStep": "PERSONAL_INFO",
+    "fields": ["firstName","lastName"]
+}
+  

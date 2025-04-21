@@ -1,0 +1,23 @@
+{
+    "sectionID": "PERSONAL_INFO",
+    "title": "Personal Information",
+    "cards": [
+      {
+        "title": "Basic Details",
+        "type":"form",
+        "fields": [
+          { "name": "firstName", "label": "First Name" },
+          { "name": "lastName", "label": "Last Name" }
+        ]
+      },
+      {
+        "title": "Contact Details",
+        "type":"form",
+        "fields": [
+          { "name": "email", "label": "Email" },
+          { "name": "phone", "label": "Phone Number" }
+        ]
+      }
+    ]
+  }
+  
